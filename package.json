@@ -1,0 +1,19 @@
+{
+  "name": "iterm-osa-controller",
+  "version": "1.0.0",
+  "description": "A high level API for controlling ITerm terminals in JavaScript. This internally makes use of OSA Scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalive/iterm-osa-controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signalive/iterm-osa-controller/issues"
+  },
+  "homepage": "https://github.com/signalive/iterm-osa-controller#readme"
+}
